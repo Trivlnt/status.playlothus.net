@@ -4,7 +4,7 @@
     "url": "https://playlothus.net",
     "icon": "https://favicons.githubusercontent.com/playlothus.net",
     "slug": "playlothus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 341,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   }
 ]
