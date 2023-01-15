@@ -4,7 +4,7 @@
     "url": "https://playlothus.net",
     "icon": "https://icons.duckduckgo.com/ip3/playlothus.net.ico",
     "slug": "playlothus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 317,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2023-01-15": 0,
       "2022-11-17": 39,
       "2022-10-17": 22,
       "2022-08-13": 56,
